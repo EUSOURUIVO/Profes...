@@ -1,2 +1,3 @@
 # Profes...
-![](link)
+Os estudantes estão fazendo o ALURA
+
